@@ -1,6 +1,7 @@
 {
 DisplayStrings = (
-"elta compression using up to 4 threads.\012Compressing objects: 100% (3done.\012Writing objects: 100% (32.20 KiB | 0 bytesdone.\012Total 3 (delta 1), reused 0 (delta 0)\012To https:/slash boris-marinov@bitbucket.org\012   a999707..b79015d  master -> master\012Boriss-MacBook-Air:fibba borismarinov$ The Case of Den Lee and the Japanese Dolls\012-bash: The: command not found\012Boriss-MacBook-Air:fibba borismarinov$ \012Boriss-MacBook-Air:fibba borismarinov$ This novella is work in progress. New chapters will be published regularly.\012-bash: This: command not found\012Boriss-MacBook-Air:fibba borismarinov$ \012Boriss-MacBook-Air:fibba borismarinov$ In a future where crimes are usually rare and predictable, and the police forces rely on sophisticated algorithms for crime investigation, the famous institution of Scotland Yard is reduced to a simple IT organization.\012-bash: In: command not found\012Boriss-MacBook-Air:fibba borismarinov$ \012"
+onlvy,
+"The world is everything that is the case.\012boris marinov\012danube\012What is the case (a fact) is the existence of states of affairs.\012\012A logical picture of facts is a thought.\012\012Altoght is a proposition with a sense.\012\012A proposition is a truth-function of elementary propositions. (An elementary proposition is a truth-function of itself.)\012\012The general form \012of a proposition is the general form of a truth function, which is: {/backslash displaystyle [{/backslash bar {p}},{/backslash bar {/backslash xi }},N({/backslash bar {/backslash xi }})]} [/backslash bar p,/backslash bar/backslash xi, N(/backslash bar/backslash xi)]. This is the general form of a proposition.\012\012Whereof one cannot speak, thereof one must be silent.\012"
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
@@ -4086,30 +4087,30 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-11-14 12:07:06 +0000";
+lastChange = "2016-11-26 18:08:49 +0000";
 layers = (
 {
 components = (
 {
 name = "_i-dotless";
-transform = "{1, 0, 0, 1, 182, 0}";
+transform = "{1, 0, 0, 1, 152, 0}";
 },
 {
 name = "_dash-small";
-transform = "{1, 0, 0, 1, 8, 198}";
+transform = "{1, 0, 0, 1, -22, 198}";
 },
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 143, 0}";
+transform = "{1, 0, 0, 1, 113, 0}";
 },
 {
 name = _curve_lower;
-transform = "{-1, 0, 0, 1, -118, -216}";
+transform = "{-1, 0, 0, 1, -148, -216}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 422;
+width = 392;
 }
 );
 unicode = 006A;
@@ -4300,7 +4301,7 @@ unicode = 0142;
 },
 {
 glyphname = m;
-lastChange = "2016-11-26 10:15:44 +0000";
+lastChange = "2016-11-26 19:10:21 +0000";
 layers = (
 {
 components = (
@@ -4863,7 +4864,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2016-11-26 10:41:06 +0000";
+lastChange = "2016-11-26 18:07:25 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -4872,48 +4873,48 @@ paths = (
 {
 closed = 1;
 nodes = (
-"183 72 OFFCURVE",
-"117 92 OFFCURVE",
-"87 122 CURVE",
-"70 38 LINE",
-"98 10 OFFCURVE",
-"157 -16 OFFCURVE",
-"236 -16 CURVE SMOOTH",
-"351 -16 OFFCURVE",
-"414 47 OFFCURVE",
-"414 133 CURVE SMOOTH",
-"414 239 OFFCURVE",
-"335 272 OFFCURVE",
-"256 297 CURVE SMOOTH",
-"212 310 OFFCURVE",
-"172 323 OFFCURVE",
-"172 367 CURVE SMOOTH",
-"172 409 OFFCURVE",
-"205 424 OFFCURVE",
-"257 424 CURVE SMOOTH",
-"297 424 OFFCURVE",
-"339 411 OFFCURVE",
-"384 382 CURVE",
-"394 471 LINE",
-"367 490 OFFCURVE",
-"303 514 OFFCURVE",
-"246 514 CURVE SMOOTH",
-"146 514 OFFCURVE",
-"85 462 OFFCURVE",
-"85 375 CURVE SMOOTH",
-"85 258 OFFCURVE",
-"172 226 OFFCURVE",
-"251 205 CURVE",
-"297 191 OFFCURVE",
-"326 172 OFFCURVE",
-"326 133 CURVE SMOOTH",
-"326 90 OFFCURVE",
-"280 72 OFFCURVE",
-"224 72 CURVE SMOOTH"
+"163 72 OFFCURVE",
+"107 89 OFFCURVE",
+"77 119 CURVE",
+"60 35 LINE",
+"88 7 OFFCURVE",
+"137 -16 OFFCURVE",
+"216 -16 CURVE SMOOTH",
+"331 -16 OFFCURVE",
+"394 47 OFFCURVE",
+"394 133 CURVE SMOOTH",
+"394 239 OFFCURVE",
+"315 272 OFFCURVE",
+"236 297 CURVE SMOOTH",
+"192 310 OFFCURVE",
+"162 323 OFFCURVE",
+"162 367 CURVE SMOOTH",
+"162 409 OFFCURVE",
+"185 424 OFFCURVE",
+"237 424 CURVE SMOOTH",
+"277 424 OFFCURVE",
+"319 411 OFFCURVE",
+"364 382 CURVE",
+"374 471 LINE",
+"347 490 OFFCURVE",
+"283 514 OFFCURVE",
+"226 514 CURVE SMOOTH",
+"126 514 OFFCURVE",
+"65 462 OFFCURVE",
+"65 375 CURVE SMOOTH",
+"65 258 OFFCURVE",
+"152 226 OFFCURVE",
+"231 205 CURVE",
+"277 191 OFFCURVE",
+"296 172 OFFCURVE",
+"296 133 CURVE SMOOTH",
+"296 90 OFFCURVE",
+"260 72 OFFCURVE",
+"204 72 CURVE SMOOTH"
 );
 }
 );
-width = 484;
+width = 454;
 }
 );
 unicode = 0073;
@@ -5576,13 +5577,13 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2016-11-26 11:09:56 +0000";
+lastChange = "2016-11-26 11:40:09 +0000";
 layers = (
 {
 components = (
 {
 name = _y;
-transform = "{-1, 0, 0, 1, 543, 0}";
+transform = "{-1, 0, 0, 1, 541, 0}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5593,9 +5594,11 @@ closed = 1;
 nodes = (
 "460 499 LINE",
 "375 499 LINE",
-"147 -167 LINE",
-"147 -200 LINE",
-"232 -200 LINE",
+"206 5 LINE",
+"132 -167 LINE",
+"132 -200 LINE",
+"217 -200 LINE",
+"291 2 LINE",
 "460 466 LINE"
 );
 }
@@ -11382,7 +11385,7 @@ width = 600;
 },
 {
 glyphname = _curve_b;
-lastChange = "2016-11-26 10:22:23 +0000";
+lastChange = "2016-11-26 19:21:49 +0000";
 layers = (
 {
 guideLines = (
@@ -11405,16 +11408,16 @@ nodes = (
 "468 232 CURVE SMOOTH",
 "468 282 LINE",
 "466 418 OFFCURVE",
-"389 511 OFFCURVE",
-"275 511 CURVE SMOOTH",
-"187 511 OFFCURVE",
-"152 439 OFFCURVE",
-"122 375 CURVE",
-"127 283 LINE",
-"155 374 OFFCURVE",
-"203 427 OFFCURVE",
-"271 427 CURVE SMOOTH",
-"331 427 OFFCURVE",
+"399 511 OFFCURVE",
+"285 511 CURVE SMOOTH",
+"200 511 OFFCURVE",
+"138 387 OFFCURVE",
+"114 305 CURVE",
+"127 263 LINE",
+"155 354 OFFCURVE",
+"213 427 OFFCURVE",
+"281 427 CURVE SMOOTH",
+"341 427 OFFCURVE",
 "376 379 OFFCURVE",
 "376 282 CURVE",
 "376 232 LINE SMOOTH",
@@ -11624,7 +11627,7 @@ width = 260;
 },
 {
 glyphname = _hmn;
-lastChange = "2016-11-26 10:24:38 +0000";
+lastChange = "2016-11-26 19:22:25 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11634,21 +11637,20 @@ paths = (
 closed = 1;
 nodes = (
 "443 1 LINE",
-"443 303 LINE",
-"441 429 OFFCURVE",
+"443 313 LINE",
+"441 439 OFFCURVE",
 "384 512 OFFCURVE",
 "272 512 CURVE SMOOTH",
-"180 512 OFFCURVE",
-"140 416 OFFCURVE",
-"122 365 CURVE",
-"93 296 LINE",
-"134 288 LINE",
-"150 353 OFFCURVE",
-"186 420 OFFCURVE",
+"200 512 OFFCURVE",
+"140 396 OFFCURVE",
+"112 295 CURVE",
+"125 248 LINE",
+"151 350 OFFCURVE",
+"216 420 OFFCURVE",
 "271 420 CURVE SMOOTH",
 "315 420 OFFCURVE",
-"351 379 OFFCURVE",
-"351 283 CURVE SMOOTH",
+"351 389 OFFCURVE",
+"351 293 CURVE SMOOTH",
 "351 1 LINE"
 );
 }
