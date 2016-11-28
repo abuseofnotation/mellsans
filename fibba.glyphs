@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
-"What proposition 6. really says is that any logical sentence can be derived from a series of NOR operations on the totality of atomic propositions. This is in fact a well-known logical theo/_curve_b f/_curve_b bnmm pro/_d_curl tbuced by Henry M. Sheffer, of which Wittgenstein makes use. Sheffer's result was, however, restricted to bandagmhnubhe propositional calculus, and so, of limited significance. Wittgenstein's N-o/_curve_b/_hmn nperator is however an infinitary analogue of the Sheffer stroke, which applied to a set of propositions produces a proposition that is equivalent to the /_curve_b denial of every member of that set. Wittgenstein shows that this operator can cope with the whole of predicate logic with identity, defi/_hmn dm/_curve_b bning  quantifiers at 5.52, and showing how identity would then be handled at 5.53-5.532.\012\012The subsidiaries of 6. contain more philosophical reflections on logic, connecting to ideas of knowledge, thought, and the a priori and transcendental. The final passages argue that logic and mathematics express only tautologies and are transcendental, i.e. they lie outside of the metaphysical subjects world. In turn, a logically \"ideal\" language cannot supply meaning, it can only reflect the world, and so, sentences in a logical language cannot remain meaningful if they are not merely reflections of the facts.\012\012",
-onlvy
+"Philxosophers and logicians to this day often contrast categorical foundations for mathematics\012with set-theoretic foundations as if the two were opposites. Yet the second\012categorical foundation ever worked out, and the first in print, was a set theory/emdash Lawveres\012axioms for the category of sets, called ETCS, (Lawvere 1964). These axioms were written\012soon after Lawveres dissertation sketched the category of categories as a foundation,\012CCAF, (Lawvere 1963b). They appeared in the PNAS two years before axioms for CCAF\012were published (Lawvere 1966). The present longer version was available since April 1965\012in the Lecture Notes Series of the University of Chicago Department of Mathematics.1\012It\012/_curve_b gives the dame definitions an/_curve_b d theorems, with the same numbering as the 5 page PNAS\012version, but with fuller proofs and explications.\012Lawvere ar/_curve_b gued that set theory should not be b",
+"o/_d_curl/_hmn/_d_curl/_d_curl d/_d_curl/_d_curl/_curve_b n/_curve_b/_curve_b b/_curve_b gbadan   ada/_hmn na"
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
@@ -2700,34 +2700,34 @@ unicode = 0058;
 },
 {
 glyphname = Y;
-lastChange = "2016-11-10 14:51:17 +0000";
+lastChange = "2016-11-28 15:53:11 +0000";
 layers = (
 {
 components = (
 {
 name = _X;
-transform = "{-1, 0, 0, 1, 625, 1}";
+transform = "{-1, 0, 0, 1, 595, 1}";
 },
 {
 name = _X;
-transform = "{1, 0, 0, 1, 22, 2}";
+transform = "{1, 0, 0, 1, -8, 2}";
 },
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 237, 198}";
+transform = "{1, 0, 0, 1, 207, 198}";
 },
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 237, 0}";
+transform = "{1, 0, 0, 1, 207, 0}";
 },
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 237, 152}";
+transform = "{1, 0, 0, 1, 207, 152}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 647;
+width = 587;
 }
 );
 unicode = 0059;
@@ -2942,7 +2942,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2016-11-26 20:27:09 +0000";
+lastChange = "2016-11-28 15:59:19 +0000";
 layers = (
 {
 components = (
@@ -3245,7 +3245,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2016-11-26 20:27:12 +0000";
+lastChange = "2016-11-28 15:46:27 +0000";
 layers = (
 {
 components = (
@@ -3377,7 +3377,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2016-11-26 20:27:20 +0000";
+lastChange = "2016-11-28 15:29:01 +0000";
 layers = (
 {
 components = (
@@ -3814,7 +3814,7 @@ unicode = 0121;
 },
 {
 glyphname = h;
-lastChange = "2016-11-26 20:24:14 +0000";
+lastChange = "2016-11-28 15:54:58 +0000";
 layers = (
 {
 components = (
@@ -3824,7 +3824,7 @@ transform = "{1, 0, 0, 1, 30, 0}";
 },
 {
 name = _hmn;
-transform = "{1, 0, 0, 1, 30, 0}";
+transform = "{1, 0, 0, 1, 25, 0}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -4323,13 +4323,13 @@ unicode = 006D;
 },
 {
 glyphname = n;
-lastChange = "2016-11-26 20:24:15 +0000";
+lastChange = "2016-11-28 15:23:01 +0000";
 layers = (
 {
 components = (
 {
 name = _hmn;
-transform = "{1, 0, 0, 1, 30, 0}";
+transform = "{1, 0, 0, 1, 24, 0}";
 },
 {
 name = "_i-dotless";
@@ -5073,7 +5073,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2016-11-26 20:23:14 +0000";
+lastChange = "2016-11-28 15:58:33 +0000";
 layers = (
 {
 components = (
@@ -5106,7 +5106,7 @@ nodes = (
 "311 500 LINE",
 "184 500 LINE",
 "184 590 LINE",
-"140 590 LINE"
+"150 590 LINE"
 );
 }
 );
@@ -5205,7 +5205,7 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2016-11-26 20:24:17 +0000";
+lastChange = "2016-11-28 15:56:26 +0000";
 layers = (
 {
 components = (
@@ -5215,12 +5215,12 @@ transform = "{-1, -0, 0, -1, 523, 500}";
 },
 {
 name = "_i-dotless";
-transform = "{1, 0, 0, 1, 323, 0}";
+transform = "{1, 0, 0, 1, 319, 0}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 553;
+width = 549;
 }
 );
 unicode = 0075;
@@ -11381,7 +11381,7 @@ width = 600;
 },
 {
 glyphname = _curve_b;
-lastChange = "2016-11-26 20:29:29 +0000";
+lastChange = "2016-11-28 15:58:05 +0000";
 layers = (
 {
 components = (
@@ -11405,20 +11405,20 @@ nodes = (
 "321 419 OFFCURVE",
 "366 369 OFFCURVE",
 "366 282 CURVE",
-"366 232 LINE SMOOTH",
-"366 151 OFFCURVE",
-"328 74 OFFCURVE",
-"235 74 CURVE SMOOTH",
-"183 74 OFFCURVE",
-"158 77 OFFCURVE",
-"127 98 CURVE",
-"114 40 LINE",
-"146 11 OFFCURVE",
-"198 -11 OFFCURVE",
-"244 -11 CURVE SMOOTH",
-"398 -11 OFFCURVE",
-"458 108 OFFCURVE",
-"458 232 CURVE SMOOTH",
+"366 222 LINE SMOOTH",
+"366 141 OFFCURVE",
+"318 82 OFFCURVE",
+"255 81 CURVE SMOOTH",
+"183 80 OFFCURVE",
+"164 97 OFFCURVE",
+"127 115 CURVE",
+"124 48 LINE",
+"153 18 OFFCURVE",
+"188 -11 OFFCURVE",
+"254 -11 CURVE SMOOTH",
+"391 -11 OFFCURVE",
+"458 98 OFFCURVE",
+"458 222 CURVE SMOOTH",
 "458 282 LINE",
 "456 412 OFFCURVE",
 "394 511 OFFCURVE",
@@ -12867,7 +12867,7 @@ width = 600;
 },
 {
 glyphname = _d_curl;
-lastChange = "2016-11-26 20:21:31 +0000";
+lastChange = "2016-11-28 15:34:34 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12877,12 +12877,12 @@ paths = (
 closed = 1;
 nodes = (
 "251 511 LINE",
-"178 511 OFFCURVE",
-"111 415 OFFCURVE",
-"78 315 CURVE",
-"117 283 LINE",
-"155 384 OFFCURVE",
-"213 419 OFFCURVE",
+"168 511 OFFCURVE",
+"107 423 OFFCURVE",
+"98 313 CURVE",
+"127 263 LINE",
+"138 384 OFFCURVE",
+"193 419 OFFCURVE",
 "251 419 CURVE"
 );
 }
