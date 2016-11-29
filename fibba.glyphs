@@ -1,9 +1,7 @@
 {
 DisplayStrings = (
 "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
-"0) We promptly judged antique ivory buckles for the next prize.\012(49) How razorback jumping frogs can level six piqued gymnasts.\012(48) Sixty zippers were quickly picked from the woven jute bag.\012(46) Crazy Fredrick bought many very exquisite opal jewels.\012(36) Jump by vow of quick, lazy strength in Oxford.\012(33) The quick brown fox jumps over a lazy dog.\012(32) Pack my box with five dozen liquor jugs.\012(30) How quickly daft jumping zebras vex.\012(29) Sphinx of black quartz: judge my vow.\012(29) Quick zephyrs blow, vexing daft Jim.\012(28) Waltz, nymph, for quick jigs vex bud.",
-"/_x \U00D8\U00D8k\U00F8\U00F8txzz/Ka-cy/Ka-cy/Ka-cy/Ka-cy 002x",
-"o/_d_curl/_hmn/_d_curl/_d_curl d/_d_curl/_d_curl/_curve_b n/_curve_b/_curve_b b/_curve_b gbadan   ada/_hmn na"
+"0) We promptly judged antique ivory buckles for the next prize.\012(49) How razorback jumping frogs can level six piqued gymnasts.\012(48) Sixty zippers were quickly picked from the woven jute bag.\012(46) Crazy Fredrick bought many very exquisite opal jewels.\012(36) Jump by vow of quick, lazy strength in Oxford.\012(33) The quick brown fox jumps over a lazy dog.\012(32) Pack my box with five dozen liquor jugs.\012(30) How quickly daft jumping zebras vex.\012(29) Sphinx of black quartz: juadge my vow.\012(29) Quick zephyrs blow, vexing daft Jim.\012(28) Waltz, nymph, for quick jigs vex bud."
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
@@ -2942,17 +2940,17 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2016-11-28 15:59:19 +0000";
+lastChange = "2016-11-29 09:04:26 +0000";
 layers = (
 {
 components = (
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 334, 0}";
+transform = "{1, 0, 0, 1, 333, 0}";
 },
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 334, 167}";
+transform = "{1, 0, 0, 1, 333, 167}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -2961,37 +2959,34 @@ paths = (
 {
 closed = 1;
 nodes = (
-"375 291 LINE",
-"339 306 OFFCURVE",
-"288 307 OFFCURVE",
-"243 307 CURVE SMOOTH",
-"162 307 OFFCURVE",
-"63 261 OFFCURVE",
-"62 146 CURVE",
-"62 36 OFFCURVE",
-"138 -11 OFFCURVE",
-"224 -11 CURVE SMOOTH",
-"281 -11 OFFCURVE",
-"337 -4 OFFCURVE",
-"375 52 CURVE"
-);
-},
-{
-closed = 1;
-nodes = (
-"207 72 OFFCURVE",
-"161 84 OFFCURVE",
-"161 148 CURVE SMOOTH",
-"161 206 OFFCURVE",
-"209 230 OFFCURVE",
-"266 234 CURVE SMOOTH",
-"302 237 OFFCURVE",
-"341 231 OFFCURVE",
-"375 222 CURVE",
-"375 196 LINE",
-"375 101 OFFCURVE",
-"292 73 OFFCURVE",
-"241 73 CURVE SMOOTH"
+"370 156 LINE",
+"351 93 OFFCURVE",
+"285 73 OFFCURVE",
+"242 73 CURVE SMOOTH",
+"208 72 OFFCURVE",
+"162 94 OFFCURVE",
+"162 148 CURVE SMOOTH",
+"162 206 OFFCURVE",
+"210 230 OFFCURVE",
+"267 234 CURVE SMOOTH",
+"300 237 OFFCURVE",
+"344 233 OFFCURVE",
+"376 224 CURVE",
+"376 230 LINE",
+"376 281 LINE",
+"350 296 OFFCURVE",
+"299 307 OFFCURVE",
+"254 307 CURVE SMOOTH",
+"163 307 OFFCURVE",
+"64 261 OFFCURVE",
+"63 146 CURVE",
+"63 36 OFFCURVE",
+"139 -11 OFFCURVE",
+"225 -11 CURVE SMOOTH",
+"292 -11 OFFCURVE",
+"348 16 OFFCURVE",
+"376 62 CURVE",
+"376 182 LINE"
 );
 },
 {
@@ -5543,13 +5538,13 @@ unicode = 1E81;
 },
 {
 glyphname = x;
-lastChange = "2016-11-29 08:35:19 +0000";
+lastChange = "2016-11-29 08:42:45 +0000";
 layers = (
 {
 components = (
 {
 name = _X;
-transform = "{1, 0, 0, 1, -124, -200}";
+transform = "{1, 0, 0, 1, -123, -199}";
 },
 {
 name = _X;
@@ -5557,7 +5552,7 @@ transform = "{-1, 0, -0, -1, 605, 698}";
 },
 {
 name = _X;
-transform = "{-1, 0, 0, 1, 605, -200}";
+transform = "{-1, 0, 0, 1, 604, -199}";
 },
 {
 name = _X;
@@ -5573,13 +5568,13 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2016-11-26 11:40:09 +0000";
+lastChange = "2016-11-29 08:53:31 +0000";
 layers = (
 {
 components = (
 {
 name = _y;
-transform = "{-1, 0, 0, 1, 541, 0}";
+transform = "{-1, 0, 0, 1, 538, 0}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5694,7 +5689,7 @@ unicode = 1EF3;
 },
 {
 glyphname = z;
-lastChange = "2016-11-29 08:16:55 +0000";
+lastChange = "2016-11-29 08:42:31 +0000";
 layers = (
 {
 components = (
@@ -5716,7 +5711,7 @@ transform = "{1, 0, 0, 1, -56, 106}";
 },
 {
 name = _X;
-transform = "{1, 0, 0, 1, -104, -200}";
+transform = "{1, 0, 0, 1, -103, -199}";
 },
 {
 name = _X;
