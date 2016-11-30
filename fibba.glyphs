@@ -2525,7 +2525,7 @@ unicode = 016E;
 },
 {
 glyphname = V;
-lastChange = "2016-11-30 08:04:13 +0000";
+lastChange = "2016-11-30 08:24:37 +0000";
 layers = (
 {
 components = (
@@ -11160,7 +11160,7 @@ width = 600;
 },
 {
 glyphname = _slash;
-lastChange = "2016-11-30 07:25:25 +0000";
+lastChange = "2016-11-30 08:23:50 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11173,7 +11173,7 @@ nodes = (
 "73 24 LINE",
 "73 1 LINE",
 "163 1 LINE",
-"334 515 LINE SMOOTH",
+"334 535 LINE SMOOTH",
 "334 700 LINE"
 );
 }
