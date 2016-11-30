@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+""
+);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
 featurePrefixes = (
@@ -8775,21 +8778,47 @@ unicode = 002E;
 },
 {
 glyphname = question;
-lastChange = "2016-11-14 10:57:16 +0000";
+lastChange = "2016-11-30 08:58:02 +0000";
 layers = (
 {
 components = (
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 101, -609}";
-},
-{
-name = _two_question;
-transform = "{1, 0, 0, 1, -21, 0}";
+transform = "{1, 0, 0, 1, 104, -609}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"188 223 LINE",
+"188 223 OFFCURVE",
+"237 233 OFFCURVE",
+"293 220 CURVE",
+"430 408 OFFCURVE",
+"453 449 OFFCURVE",
+"453 538 CURVE SMOOTH",
+"453 644 OFFCURVE",
+"384 716 OFFCURVE",
+"239 716 CURVE SMOOTH",
+"193 716 OFFCURVE",
+"127 707 OFFCURVE",
+"75 671 CURVE",
+"93 581 LINE",
+"134 602 OFFCURVE",
+"182 622 OFFCURVE",
+"238 622 CURVE SMOOTH",
+"328 622 OFFCURVE",
+"351 578 OFFCURVE",
+"351 530 CURVE SMOOTH",
+"351 465 OFFCURVE",
+"328 423 OFFCURVE",
+"230 282 CURVE"
+);
+}
+);
 width = 518;
 }
 );
@@ -8797,17 +8826,13 @@ unicode = 003F;
 },
 {
 glyphname = questiondown;
-lastChange = "2016-11-14 10:57:05 +0000";
+lastChange = "2016-11-30 08:48:52 +0000";
 layers = (
 {
 components = (
 {
-name = _dot;
-transform = "{-1, -0, 0, -1, 416, 1106}";
-},
-{
-name = _two_question;
-transform = "{-1, -0, 0, -1, 540, 499}";
+name = question;
+transform = "{-1, 0, -0, -1, 528, 506}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11695,7 +11720,7 @@ width = 600;
 },
 {
 glyphname = _curve_lower;
-lastChange = "2016-11-30 07:27:29 +0000";
+lastChange = "2016-11-30 08:55:40 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11712,11 +11737,11 @@ nodes = (
 "-243 10 OFFCURVE",
 "-194 17 OFFCURVE",
 "-153 40 CURVE",
-"-170 124 LINE",
-"-207 104 OFFCURVE",
-"-233 99 OFFCURVE",
-"-276 99 CURVE SMOOTH",
-"-357 99 OFFCURVE",
+"-170 130 LINE",
+"-207 110 OFFCURVE",
+"-243 105 OFFCURVE",
+"-276 105 CURVE SMOOTH",
+"-357 105 OFFCURVE",
 "-367 160 OFFCURVE",
 "-367 241 CURVE SMOOTH",
 "-367 348 LINE"
@@ -12146,7 +12171,7 @@ width = 600;
 },
 {
 glyphname = _two_question;
-lastChange = "2016-11-14 10:56:37 +0000";
+lastChange = "2016-11-30 08:57:11 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12155,13 +12180,11 @@ paths = (
 {
 closed = 1;
 nodes = (
-"247 276 OFFCURVE",
-"198 206 OFFCURVE",
-"198 206 CURVE SMOOTH",
-"198 206 OFFCURVE",
-"301 197 OFFCURVE",
-"301 197 CURVE",
-"438 385 OFFCURVE",
+"230 251 LINE",
+"230 251 OFFCURVE",
+"264 222 OFFCURVE",
+"299 196 CURVE",
+"436 384 OFFCURVE",
 "474 449 OFFCURVE",
 "474 538 CURVE SMOOTH",
 "474 644 OFFCURVE",
@@ -12179,7 +12202,7 @@ nodes = (
 "372 530 CURVE SMOOTH",
 "372 465 OFFCURVE",
 "349 423 OFFCURVE",
-"251 282 CURVE SMOOTH"
+"251 282 CURVE"
 );
 }
 );
