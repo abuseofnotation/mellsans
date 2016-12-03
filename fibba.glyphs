@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-"\"I'm Boris,\" he said\012And you?"
-);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
 featurePrefixes = (
@@ -12577,7 +12574,7 @@ width = 565;
 },
 {
 glyphname = _quote;
-lastChange = "2016-12-01 09:31:52 +0000";
+lastChange = "2016-12-03 16:27:10 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12586,14 +12583,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"146 -20 OFFCURVE",
+"148 -3 OFFCURVE",
 "124 -61 OFFCURVE",
 "96 -117 CURVE",
 "143 -127 LINE SMOOTH",
 "144 -127 OFFCURVE",
 "220 -35 OFFCURVE",
 "220 70 CURVE",
-"146 71 LINE"
+"123 3 LINE"
 );
 }
 );
@@ -13297,7 +13294,7 @@ width = 506;
 },
 {
 glyphname = _quotes;
-lastChange = "2016-12-03 16:12:28 +0000";
+lastChange = "2016-12-03 16:28:45 +0000";
 layers = (
 {
 components = (
@@ -13312,14 +13309,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"156 10 OFFCURVE",
+"155 -13 OFFCURVE",
 "150 -36 OFFCURVE",
 "125 -80 CURVE",
 "161 -91 LINE SMOOTH",
 "162 -91 OFFCURVE",
-"229 -28 OFFCURVE",
-"229 70 CURVE",
-"156 61 LINE"
+"228 -18 OFFCURVE",
+"230 59 CURVE",
+"125 -4 LINE"
 );
 }
 );
