@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"\"I'm Boris,\" he said\012And you?"
+);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
 featurePrefixes = (
@@ -40,31 +43,31 @@ xHeight = 500;
 glyphs = (
 {
 glyphname = A;
-lastChange = "2016-12-01 07:59:07 +0000";
+lastChange = "2016-12-03 16:14:10 +0000";
 layers = (
 {
 anchors = (
 {
 name = ogonek;
-position = "{517, 10}";
+position = "{527, 10}";
 },
 {
 name = top;
-position = "{264, 700}";
+position = "{274, 700}";
 }
 );
 components = (
 {
 name = _slash;
-transform = "{-1, 0, 0, 1, 585, -1}";
+transform = "{-1, 0, 0, 1, 595, -1}";
 },
 {
 name = _slash;
-transform = "{1, 0, 0, 1, -53, -1}";
+transform = "{1, 0, 0, 1, -43, -1}";
 },
 {
 name = _dash;
-transform = "{1, 0, 0, 1, -33, -61}";
+transform = "{1, 0, 0, 1, -23, -61}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -73,11 +76,11 @@ paths = (
 {
 closed = 0;
 nodes = (
-"317 396 LINE"
+"327 396 LINE"
 );
 }
 );
-width = 532;
+width = 562;
 }
 );
 leftKerningGroup = A;
@@ -8997,17 +9000,17 @@ unicode = 00BF;
 },
 {
 glyphname = quotedbl;
-lastChange = "2016-11-10 14:51:17 +0000";
+lastChange = "2016-12-03 16:13:26 +0000";
 layers = (
 {
 components = (
 {
-name = _quote;
-transform = "{1, 0, 0, 1, 141, 630}";
+name = _quotes;
+transform = "{1, 0, 0, 1, -16, 630}";
 },
 {
-name = _quote;
-transform = "{1, 0, 0, 1, -3, 630}";
+name = _quotes;
+transform = "{1, 0, 0, 1, 164, 630}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -9019,13 +9022,13 @@ unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2016-11-10 14:51:17 +0000";
+lastChange = "2016-12-03 16:10:43 +0000";
 layers = (
 {
 components = (
 {
-name = _quote;
-transform = "{1, 0, 0, 1, -3, 630}";
+name = _quotes;
+transform = "{1, 0, 0, 1, -26, 630}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -13294,7 +13297,7 @@ width = 506;
 },
 {
 glyphname = _quotes;
-lastChange = "2016-12-01 09:32:42 +0000";
+lastChange = "2016-12-03 16:12:28 +0000";
 layers = (
 {
 components = (
@@ -13309,14 +13312,14 @@ paths = (
 {
 closed = 1;
 nodes = (
-"176 -40 OFFCURVE",
-"153 -63 OFFCURVE",
-"118 -93 CURVE",
-"135 -116 LINE SMOOTH",
-"136 -117 OFFCURVE",
-"230 -68 OFFCURVE",
-"230 70 CURVE",
-"176 61 LINE"
+"156 10 OFFCURVE",
+"150 -36 OFFCURVE",
+"125 -80 CURVE",
+"161 -91 LINE SMOOTH",
+"162 -91 OFFCURVE",
+"229 -28 OFFCURVE",
+"229 70 CURVE",
+"156 61 LINE"
 );
 }
 );
