@@ -1,7 +1,7 @@
 {
 DisplayStrings = (
 maxxis,
-Mandratory,
+"driver's license",
 Namespace
 );
 date = "2016-11-08 10:02:54 +0000";
@@ -3452,7 +3452,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2016-12-04 17:43:24 +0000";
+lastChange = "2016-12-05 06:50:10 +0000";
 layers = (
 {
 components = (
@@ -3467,7 +3467,7 @@ transform = "{-1, 0, -0, -1, 508, 500}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 544;
+width = 543;
 }
 );
 leftKerningGroup = e;
@@ -9044,7 +9044,7 @@ unicode = 0022;
 },
 {
 glyphname = quotesingle;
-lastChange = "2016-12-03 16:10:43 +0000";
+lastChange = "2016-12-05 06:49:28 +0000";
 layers = (
 {
 components = (
@@ -9055,7 +9055,7 @@ transform = "{1, 0, 0, 1, -26, 630}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 284;
+width = 234;
 }
 );
 unicode = 0027;
