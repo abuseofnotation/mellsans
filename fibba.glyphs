@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+""
+);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
 featurePrefixes = (
@@ -27,7 +30,7 @@ name = frac;
 );
 fontMaster = (
 {
-ascender = 800;
+ascender = 750;
 capHeight = 700;
 descender = "-200";
 id = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -3343,7 +3346,7 @@ unicode = 00E6;
 },
 {
 glyphname = b;
-lastChange = "2016-12-06 11:07:17 +0000";
+lastChange = "2016-12-06 11:23:00 +0000";
 layers = (
 {
 components = (
@@ -3476,7 +3479,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2016-12-06 10:57:45 +0000";
+lastChange = "2016-12-06 11:23:08 +0000";
 layers = (
 {
 components = (
@@ -3797,7 +3800,7 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2016-11-30 08:01:50 +0000";
+lastChange = "2016-12-06 11:33:21 +0000";
 layers = (
 {
 components = (
@@ -3815,7 +3818,7 @@ transform = "{1, 0, 0, 1, -60, 106}";
 },
 {
 name = _f_integral;
-transform = "{1, 0, 0, 1, -30, 0}";
+transform = "{1, 0, 0, 1, -30, 15}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -3963,13 +3966,13 @@ unicode = 0127;
 },
 {
 glyphname = i;
-lastChange = "2016-12-01 06:32:13 +0000";
+lastChange = "2016-12-06 11:33:49 +0000";
 layers = (
 {
 components = (
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 22, 0}";
+transform = "{1, 0, 0, 1, 22, 6}";
 },
 {
 name = _i_dotless_full;
@@ -4189,7 +4192,7 @@ unicode = 012F;
 },
 {
 glyphname = j;
-lastChange = "2016-12-01 06:39:15 +0000";
+lastChange = "2016-12-06 11:33:56 +0000";
 layers = (
 {
 components = (
@@ -4203,7 +4206,7 @@ transform = "{1, 0, 0, 1, -107, 198}";
 },
 {
 name = _dot;
-transform = "{1, 0, 0, 1, 28, 0}";
+transform = "{1, 0, 0, 1, 28, 8}";
 },
 {
 name = _curve_lower;
@@ -4219,7 +4222,7 @@ unicode = 006A;
 },
 {
 glyphname = k;
-lastChange = "2016-12-04 19:22:44 +0000";
+lastChange = "2016-12-06 11:23:55 +0000";
 layers = (
 {
 components = (
@@ -4242,7 +4245,7 @@ nodes = (
 "445 475 LINE",
 "445 498 LINE",
 "347 498 LINE",
-"174 255 LINE",
+"172 255 LINE",
 "118 254 LINE SMOOTH"
 );
 }
@@ -5728,7 +5731,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2016-12-05 08:17:16 +0000";
+lastChange = "2016-12-06 11:28:48 +0000";
 layers = (
 {
 components = (
@@ -11681,13 +11684,13 @@ width = 469;
 },
 {
 glyphname = _I_dbh;
-lastChange = "2016-11-10 14:56:47 +0000";
+lastChange = "2016-12-06 11:30:18 +0000";
 layers = (
 {
 components = (
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 0, 631}";
+transform = "{1, 0, 0, 1, 0, 582}";
 },
 {
 name = _I_small;
@@ -12809,7 +12812,7 @@ width = 600;
 },
 {
 glyphname = _f_integral;
-lastChange = "2016-12-05 13:10:27 +0000";
+lastChange = "2016-12-06 11:34:30 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12825,8 +12828,8 @@ nodes = (
 "220 366 LINE",
 "220 563 LINE SMOOTH",
 "220 597 OFFCURVE",
-"228 661 OFFCURVE",
-"320 634 CURVE",
+"220 661 OFFCURVE",
+"312 634 CURVE",
 "313 725 LINE"
 );
 }
