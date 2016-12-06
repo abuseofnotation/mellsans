@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-""
+damas
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "new Font 0";
@@ -3061,7 +3061,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2016-12-05 12:33:57 +0000";
+lastChange = "2016-12-06 06:55:10 +0000";
 layers = (
 {
 components = (
@@ -3606,7 +3606,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2016-12-05 12:51:53 +0000";
+lastChange = "2016-12-06 06:55:38 +0000";
 layers = (
 {
 components = (
@@ -3631,8 +3631,8 @@ nodes = (
 "142 303 LINE",
 "149 229 LINE",
 "476 229 LINE",
-"478 282 LINE SMOOTH",
-"483 409 OFFCURVE",
+"475 282 LINE SMOOTH",
+"473 409 OFFCURVE",
 "402 511 OFFCURVE",
 "274 511 CURVE SMOOTH",
 "147 511 OFFCURVE",
@@ -13476,8 +13476,8 @@ name = Regular;
 kerning = {
 "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D" = {
 "@MMK_L_A" = {
-"@MMK_R_V" = "-80";
 "@MMK_R_T" = "-60";
+"@MMK_R_V" = "-80";
 };
 "@MMK_L_T" = {
 "@MMK_R_A" = "-90";
