@@ -1,6 +1,5 @@
 {
 DisplayStrings = (
-"wegjagen Bargfeld/_curve_lower_big cac",
 f
 );
 date = "2016-11-08 10:02:54 +0000";
@@ -3146,7 +3145,7 @@ unicode = 0061;
 },
 {
 glyphname = aacute;
-lastChange = "2016-12-03 15:06:23 +0000";
+lastChange = "2016-12-13 10:53:45 +0000";
 layers = (
 {
 components = (
@@ -3161,7 +3160,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 535;
+width = 534;
 }
 );
 leftKerningGroup = e;
@@ -3191,7 +3190,7 @@ unicode = 0103;
 },
 {
 glyphname = acircumflex;
-lastChange = "2016-11-14 12:08:04 +0000";
+lastChange = "2016-12-13 10:53:45 +0000";
 layers = (
 {
 components = (
@@ -3206,7 +3205,7 @@ transform = "{1, 0, 0, 1, 0, -33}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 535;
+width = 534;
 }
 );
 unicode = 00E2;
@@ -3235,7 +3234,7 @@ unicode = 00E4;
 },
 {
 glyphname = agrave;
-lastChange = "2016-11-14 12:08:04 +0000";
+lastChange = "2016-12-13 10:53:45 +0000";
 layers = (
 {
 components = (
@@ -3250,7 +3249,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 535;
+width = 534;
 }
 );
 unicode = 00E0;
@@ -3302,7 +3301,7 @@ unicode = 0105;
 },
 {
 glyphname = aring;
-lastChange = "2016-11-14 12:08:04 +0000";
+lastChange = "2016-12-13 10:53:45 +0000";
 layers = (
 {
 components = (
@@ -3317,14 +3316,14 @@ transform = "{1, 0, 0, 1, 0, 0}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 535;
+width = 534;
 }
 );
 unicode = 00E5;
 },
 {
 glyphname = atilde;
-lastChange = "2016-11-14 12:08:04 +0000";
+lastChange = "2016-12-13 10:53:45 +0000";
 layers = (
 {
 components = (
@@ -3339,7 +3338,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 535;
+width = 534;
 }
 );
 unicode = 00E3;
