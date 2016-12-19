@@ -3879,7 +3879,7 @@ unicode = 0119;
 },
 {
 glyphname = f;
-lastChange = "2016-12-08 15:38:07 +0000";
+lastChange = "2016-12-19 10:27:42 +0000";
 layers = (
 {
 components = (
@@ -3902,7 +3902,7 @@ transform = "{1, 0, 0, 1, -30, 15}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 323;
+width = 343;
 }
 );
 unicode = 0066;
@@ -5304,7 +5304,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2016-12-19 09:13:05 +0000";
+lastChange = "2016-12-19 10:31:55 +0000";
 layers = (
 {
 components = (
@@ -5827,7 +5827,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2016-12-08 14:32:21 +0000";
+lastChange = "2016-12-19 10:19:26 +0000";
 layers = (
 {
 components = (
@@ -5856,8 +5856,8 @@ nodes = (
 "20 476 LINE",
 "173 0 LINE",
 "221 0 LINE",
-"257 89 LINE",
-"230 88 LINE",
+"253 89 LINE",
+"226 88 LINE",
 "115 500 LINE"
 );
 }
@@ -12227,7 +12227,7 @@ width = 600;
 },
 {
 glyphname = _curve_lower;
-lastChange = "2016-12-19 09:34:17 +0000";
+lastChange = "2016-12-19 10:20:49 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12238,17 +12238,17 @@ closed = 1;
 nodes = (
 "103 348 LINE",
 "103 209 LINE SMOOTH",
-"103 103 OFFCURVE",
+"103 93 OFFCURVE",
 "157 13 OFFCURVE",
-"266 11 CURVE SMOOTH",
-"320 10 OFFCURVE",
-"357 16 OFFCURVE",
+"276 11 CURVE SMOOTH",
+"341 10 OFFCURVE",
+"366 28 OFFCURVE",
 "405 46 CURVE",
 "387 138 LINE",
-"344 109 OFFCURVE",
-"310 103 OFFCURVE",
-"277 103 CURVE SMOOTH",
-"216 103 OFFCURVE",
+"344 116 OFFCURVE",
+"320 106 OFFCURVE",
+"277 106 CURVE SMOOTH",
+"226 106 OFFCURVE",
 "196 150 OFFCURVE",
 "196 231 CURVE SMOOTH",
 "196 348 LINE"
@@ -12921,7 +12921,7 @@ width = 600;
 },
 {
 glyphname = _f_integral;
-lastChange = "2016-12-19 09:46:30 +0000";
+lastChange = "2016-12-19 10:26:38 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12930,7 +12930,7 @@ paths = (
 {
 closed = 1;
 nodes = (
-"301 731 OFFCURVE",
+"311 729 OFFCURVE",
 "281 733 OFFCURVE",
 "253 733 CURVE SMOOTH",
 "166 733 OFFCURVE",
@@ -12939,10 +12939,13 @@ nodes = (
 "127 366 LINE",
 "220 366 LINE",
 "220 563 LINE SMOOTH",
-"220 597 OFFCURVE",
-"215 650 OFFCURVE",
-"307 632 CURVE",
-"323 725 LINE"
+"220 590 OFFCURVE",
+"223 643 OFFCURVE",
+"266 643 CURVE SMOOTH",
+"287 643 OFFCURVE",
+"300 640 OFFCURVE",
+"317 632 CURVE",
+"333 723 LINE"
 );
 }
 );
