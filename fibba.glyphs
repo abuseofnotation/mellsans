@@ -1,9 +1,9 @@
 {
 DisplayStrings = (
-""
+t
 );
 date = "2016-11-08 10:02:54 +0000";
-familyName = "new Font 1";
+familyName = "Mell Sans ";
 featurePrefixes = (
 {
 automatic = 1;
@@ -3061,7 +3061,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2016-12-21 09:59:44 +0000";
+lastChange = "2016-12-26 23:23:48 +0000";
 layers = (
 {
 components = (
@@ -3653,7 +3653,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2016-12-18 18:03:24 +0000";
+lastChange = "2016-12-26 23:11:49 +0000";
 layers = (
 {
 components = (
@@ -5304,7 +5304,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2016-12-21 10:23:35 +0000";
+lastChange = "2016-12-27 12:10:22 +0000";
 layers = (
 {
 components = (
@@ -5325,19 +5325,19 @@ paths = (
 {
 closed = 1;
 nodes = (
-"40 454 LINE",
-"40 420 LINE",
+"20 454 LINE",
+"20 420 LINE",
 "101 420 LINE",
 "101 222 LINE SMOOTH",
 "101 93 OFFCURVE",
 "194 141 OFFCURVE",
 "194 222 CURVE SMOOTH",
 "194 420 LINE",
-"321 420 LINE",
-"321 500 LINE",
+"331 420 LINE",
+"331 500 LINE",
 "194 500 LINE",
-"194 590 LINE",
-"160 590 LINE"
+"194 610 LINE",
+"160 610 LINE"
 );
 }
 );
@@ -5437,7 +5437,7 @@ unicode = 021B;
 },
 {
 glyphname = u;
-lastChange = "2016-12-19 09:35:16 +0000";
+lastChange = "2016-12-26 23:23:18 +0000";
 layers = (
 {
 components = (
@@ -12116,7 +12116,7 @@ width = 260;
 },
 {
 glyphname = _dot;
-lastChange = "2016-11-26 09:11:49 +0000";
+lastChange = "2016-12-27 12:13:18 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -13402,7 +13402,7 @@ width = 600;
 },
 {
 glyphname = _d_curl;
-lastChange = "2016-12-06 11:07:24 +0000";
+lastChange = "2016-12-27 11:47:49 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -13644,7 +13644,8 @@ width = 499;
 );
 instances = (
 {
-name = Regular;
+name = SemiBold;
+weightClass = SemiBold;
 }
 );
 kerning = {
