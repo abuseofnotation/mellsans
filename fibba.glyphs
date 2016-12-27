@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-t
+"Ich rufe: also komm; danke"
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
@@ -8941,7 +8941,7 @@ unicode = 003A;
 },
 {
 glyphname = comma;
-lastChange = "2016-12-01 09:14:31 +0000";
+lastChange = "2016-12-27 12:16:49 +0000";
 layers = (
 {
 components = (
@@ -8951,7 +8951,7 @@ transform = "{1, 0, 0, 1, 26, -599}";
 },
 {
 name = _quote;
-transform = "{1, 0, 0, 1, 13, 0}";
+transform = "{1, 0, 0, 1, 21, -9}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12116,7 +12116,7 @@ width = 260;
 },
 {
 glyphname = _dot;
-lastChange = "2016-12-27 12:13:18 +0000";
+lastChange = "2016-12-27 12:16:12 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12125,18 +12125,18 @@ paths = (
 {
 closed = 1;
 nodes = (
-"173 599 OFFCURVE",
-"207 630 OFFCURVE",
-"207 669 CURVE SMOOTH",
-"207 709 OFFCURVE",
-"173 741 OFFCURVE",
-"131 741 CURVE SMOOTH",
-"89 741 OFFCURVE",
-"54 709 OFFCURVE",
-"54 669 CURVE SMOOTH",
-"54 630 OFFCURVE",
-"89 599 OFFCURVE",
-"131 599 CURVE SMOOTH"
+"177 591 OFFCURVE",
+"215 625 OFFCURVE",
+"215 669 CURVE SMOOTH",
+"215 713 OFFCURVE",
+"177 749 OFFCURVE",
+"131 749 CURVE SMOOTH",
+"84 749 OFFCURVE",
+"45 713 OFFCURVE",
+"45 669 CURVE SMOOTH",
+"45 625 OFFCURVE",
+"84 591 OFFCURVE",
+"131 591 CURVE SMOOTH"
 );
 }
 );
