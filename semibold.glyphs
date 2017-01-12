@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-yours
+mvyriad
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
@@ -5088,7 +5088,7 @@ unicode = 0071;
 },
 {
 glyphname = r;
-lastChange = "2016-12-28 11:44:14 +0000";
+lastChange = "2017-01-12 17:39:49 +0000";
 layers = (
 {
 components = (
@@ -5918,7 +5918,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2017-01-12 17:26:28 +0000";
+lastChange = "2017-01-12 17:44:32 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5928,7 +5928,7 @@ paths = (
 closed = 1;
 nodes = (
 "13 500 LINE",
-"183 0 LINE",
+"193 0 LINE",
 "241 0 LINE",
 "260 104 LINE",
 "238 103 LINE SMOOTH",
@@ -5941,12 +5941,12 @@ nodes = (
 "464 500 LINE",
 "362 500 LINE",
 "198 -48 LINE SMOOTH",
-"175 -111 OFFCURVE",
+"179 -112 OFFCURVE",
 "143 -122 OFFCURVE",
 "101 -108 CURVE",
 "110 -200 LINE",
 "187 -212 OFFCURVE",
-"240 -172 OFFCURVE",
+"244 -173 OFFCURVE",
 "270 -93 CURVE SMOOTH"
 );
 }
