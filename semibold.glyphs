@@ -1,6 +1,6 @@
 {
 DisplayStrings = (
-dodger
+startup
 );
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
@@ -3544,7 +3544,7 @@ unicode = 010B;
 },
 {
 glyphname = d;
-lastChange = "2017-01-08 10:25:28 +0000";
+lastChange = "2017-01-13 16:24:26 +0000";
 layers = (
 {
 components = (
@@ -3591,21 +3591,19 @@ paths = (
 {
 closed = 1;
 nodes = (
+"370 431 LINE",
 "370 264 LINE",
 "463 264 LINE",
-"463 431 LINE",
-"370 431 LINE"
+"463 431 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"370 78 LINE",
-"370 44 LINE",
+"370 168 LINE",
 "370 1 LINE",
 "463 1 LINE",
-"463 168 LINE",
-"370 168 LINE"
+"463 168 LINE"
 );
 }
 );
@@ -5442,7 +5440,7 @@ unicode = 00DF;
 },
 {
 glyphname = t;
-lastChange = "2017-01-09 08:23:08 +0000";
+lastChange = "2017-01-17 14:57:45 +0000";
 layers = (
 {
 components = (
@@ -5479,7 +5477,7 @@ nodes = (
 );
 }
 );
-width = 486;
+width = 466;
 }
 );
 leftKerningGroup = e;
