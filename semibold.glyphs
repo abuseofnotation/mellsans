@@ -1,7 +1,4 @@
 {
-DisplayStrings = (
-""
-);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
 featurePrefixes = (
@@ -1485,7 +1482,7 @@ unicode = 0141;
 },
 {
 glyphname = M;
-lastChange = "2017-02-07 06:28:50 +0000";
+lastChange = "2017-02-17 13:29:39 +0000";
 layers = (
 {
 components = (
@@ -3105,7 +3102,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2017-02-07 08:45:49 +0000";
+lastChange = "2017-02-17 13:28:49 +0000";
 layers = (
 {
 components = (
@@ -5304,7 +5301,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2017-01-31 10:34:41 +0000";
+lastChange = "2017-02-20 15:09:12 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5906,21 +5903,25 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2017-02-07 08:41:31 +0000";
+lastChange = "2017-02-17 13:30:27 +0000";
 layers = (
 {
-components = (
-{
-name = _y;
-transform = "{1, 0, 0, 1, -51, 0}";
-},
-{
-name = _y;
-transform = "{-1, 0, 0, 1, 573, 0}";
-}
-);
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
+paths = (
+{
+closed = 1;
+nodes = (
+"387 500 LINE",
+"265 187 LINE",
+"135 500 LINE",
+"30 500 LINE",
+"249 0 LINE",
+"273 0 LINE",
+"492 500 LINE"
+);
+}
+);
 width = 522;
 }
 );
@@ -12284,7 +12285,7 @@ width = 600;
 },
 {
 glyphname = _curve_b;
-lastChange = "2017-02-17 13:25:00 +0000";
+lastChange = "2017-02-18 17:58:02 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12293,34 +12294,34 @@ paths = (
 {
 closed = 1;
 nodes = (
-"153 511 OFFCURVE",
+"141 511 OFFCURVE",
 "108 426 OFFCURVE",
 "99 376 CURVE",
 "129 277 LINE",
 "130 368 OFFCURVE",
 "164 423 OFFCURVE",
 "242 423 CURVE SMOOTH",
-"312 423 OFFCURVE",
-"357 363 OFFCURVE",
+"322 423 OFFCURVE",
+"357 369 OFFCURVE",
 "357 276 CURVE SMOOTH",
 "357 236 LINE SMOOTH",
-"357 155 OFFCURVE",
+"357 135 OFFCURVE",
 "309 86 OFFCURVE",
 "246 85 CURVE SMOOTH",
-"174 84 OFFCURVE",
-"165 101 OFFCURVE",
-"128 119 CURVE",
+"184 84 OFFCURVE",
+"165 91 OFFCURVE",
+"128 109 CURVE",
 "125 48 LINE",
 "154 18 OFFCURVE",
-"191 -11 OFFCURVE",
-"253 -11 CURVE SMOOTH",
-"380 -11 OFFCURVE",
+"189 -11 OFFCURVE",
+"251 -11 CURVE SMOOTH",
+"378 -11 OFFCURVE",
 "449 98 OFFCURVE",
 "449 222 CURVE SMOOTH",
-"449 282 LINE",
-"447 412 OFFCURVE",
-"379 511 OFFCURVE",
-"251 511 CURVE SMOOTH"
+"449 286 LINE",
+"447 416 OFFCURVE",
+"377 511 OFFCURVE",
+"249 511 CURVE SMOOTH"
 );
 }
 );
@@ -14251,7 +14252,7 @@ width = 492;
 },
 {
 glyphname = _A;
-lastChange = "2017-02-03 07:27:29 +0000";
+lastChange = "2017-02-17 13:30:43 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -14264,7 +14265,6 @@ nodes = (
 "278 699 LINE",
 "10 0 LINE",
 "109 0 LINE",
-"297 506 LINE",
 "299 506 LINE",
 "481 0 LINE",
 "580 0 LINE"
