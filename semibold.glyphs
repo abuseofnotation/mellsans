@@ -1,4 +1,7 @@
 {
+DisplayStrings = (
+"selbstt\U00E4tig\012rfahrensprinzipien\012zs ZS db\012Schneidbrennen\012Kreissschneidemaschinen\012fl\U00FCssige\012Vrlo"
+);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
 featurePrefixes = (
@@ -4219,7 +4222,7 @@ unicode = 0127;
 },
 {
 glyphname = i;
-lastChange = "2017-01-25 08:55:40 +0000";
+lastChange = "2017-02-21 10:31:22 +0000";
 layers = (
 {
 components = (
@@ -4229,7 +4232,7 @@ transform = "{1, 0, 0, 1, 12, 6}";
 },
 {
 name = _i_dotless_full;
-transform = "{1, 0, 0, 1, -30, 0}";
+transform = "{1, 0, 0, 1, -27, 0}";
 }
 );
 hints = (
@@ -5301,7 +5304,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2017-02-20 15:09:12 +0000";
+lastChange = "2017-02-21 10:39:18 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5343,9 +5346,9 @@ nodes = (
 "148 233 OFFCURVE",
 "220 212 CURVE SMOOTH",
 "280 194 OFFCURVE",
-"296 176 OFFCURVE",
-"296 143 CURVE SMOOTH",
-"296 98 OFFCURVE",
+"303 176 OFFCURVE",
+"303 143 CURVE SMOOTH",
+"303 98 OFFCURVE",
 "252 82 OFFCURVE",
 "208 82 CURVE SMOOTH"
 );
@@ -5903,7 +5906,7 @@ unicode = 016F;
 },
 {
 glyphname = v;
-lastChange = "2017-02-17 13:30:27 +0000";
+lastChange = "2017-02-21 09:58:43 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5913,7 +5916,7 @@ paths = (
 closed = 1;
 nodes = (
 "387 500 LINE",
-"265 187 LINE",
+"261 187 LINE",
 "135 500 LINE",
 "30 500 LINE",
 "249 0 LINE",
