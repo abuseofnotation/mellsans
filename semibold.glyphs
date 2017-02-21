@@ -1,5 +1,6 @@
 {
 DisplayStrings = (
+"",
 "selbstt\U00E4tig\012rfahrensprinzipien\012zs ZS db\012Schneidbrennen\012Kreissschneidemaschinen\012fl\U00FCssige\012Vrlo"
 );
 date = "2016-11-08 10:02:54 +0000";
@@ -3105,7 +3106,7 @@ unicode = 017B;
 },
 {
 glyphname = a;
-lastChange = "2017-02-17 13:28:49 +0000";
+lastChange = "2017-02-21 19:22:58 +0000";
 layers = (
 {
 components = (
@@ -3115,7 +3116,7 @@ transform = "{1, 0, 0, 1, 310, 50}";
 },
 {
 name = _I_small;
-transform = "{1, 0, 0, 1, 310, 137}";
+transform = "{1, 0, 0, 1, 310, 127}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -3124,20 +3125,20 @@ paths = (
 {
 closed = 1;
 nodes = (
-"350 164 LINE",
-"351 111 OFFCURVE",
+"350 174 LINE",
+"351 121 OFFCURVE",
 "295 73 OFFCURVE",
 "232 73 CURVE SMOOTH",
 "188 73 OFFCURVE",
-"139 93 OFFCURVE",
-"139 147 CURVE SMOOTH",
-"139 195 OFFCURVE",
-"167 218 OFFCURVE",
-"214 218 CURVE SMOOTH",
-"217 218 OFFCURVE",
-"281 218 OFFCURVE",
-"284 218 CURVE SMOOTH",
-"317 218 OFFCURVE",
+"139 95 OFFCURVE",
+"139 149 CURVE SMOOTH",
+"139 197 OFFCURVE",
+"187 223 OFFCURVE",
+"234 223 CURVE SMOOTH",
+"237 223 OFFCURVE",
+"261 223 OFFCURVE",
+"264 223 CURVE SMOOTH",
+"297 223 OFFCURVE",
 "334 216 OFFCURVE",
 "353 207 CURVE",
 "363 273 LINE",
@@ -3148,7 +3149,7 @@ nodes = (
 "224 297 OFFCURVE",
 "211 297 CURVE SMOOTH",
 "120 297 OFFCURVE",
-"41 261 OFFCURVE",
+"41 251 OFFCURVE",
 "40 146 CURVE",
 "40 36 OFFCURVE",
 "126 -11 OFFCURVE",
@@ -3164,16 +3165,16 @@ nodes = (
 "350 0 LINE",
 "443 0 LINE",
 "443 117 LINE",
-"350 167 LINE"
+"350 177 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"350 265 OFFCURVE",
-"443 222 OFFCURVE",
-"443 304 CURVE",
-"443 446 OFFCURVE",
+"350 255 OFFCURVE",
+"443 212 OFFCURVE",
+"443 294 CURVE",
+"443 436 OFFCURVE",
 "365 506 OFFCURVE",
 "237 506 CURVE SMOOTH",
 "148 506 OFFCURVE",
@@ -3184,8 +3185,8 @@ nodes = (
 "174 418 OFFCURVE",
 "236 418 CURVE SMOOTH",
 "296 418 OFFCURVE",
-"350 391 OFFCURVE",
-"350 303 CURVE SMOOTH"
+"350 381 OFFCURVE",
+"350 293 CURVE SMOOTH"
 );
 }
 );
@@ -5304,7 +5305,7 @@ unicode = 0157;
 },
 {
 glyphname = s;
-lastChange = "2017-02-21 10:39:18 +0000";
+lastChange = "2017-02-21 19:15:09 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -6094,7 +6095,7 @@ unicode = 0078;
 },
 {
 glyphname = y;
-lastChange = "2017-02-01 07:48:03 +0000";
+lastChange = "2017-02-21 19:21:18 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -6118,7 +6119,7 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"132 500 LINE",
+"142 500 LINE",
 "30 500 LINE",
 "203 45 LINE SMOOTH",
 "216 10 OFFCURVE",
