@@ -1,8 +1,4 @@
 {
-DisplayStrings = (
-mover,
-messy
-);
 date = "2016-11-08 10:02:54 +0000";
 familyName = "Mell Sans ";
 featurePrefixes = (
@@ -3654,7 +3650,7 @@ unicode = 0111;
 },
 {
 glyphname = e;
-lastChange = "2020-01-18 18:55:28 +0000";
+lastChange = "2020-01-19 11:36:05 +0000";
 layers = (
 {
 components = (
@@ -3677,9 +3673,9 @@ nodes = (
 "237 409 OFFCURVE",
 "259 409 CURVE",
 "320 409 OFFCURVE",
-"381 347 OFFCURVE",
-"367 265 CURVE",
-"114 264 LINE",
+"381 357 OFFCURVE",
+"367 275 CURVE",
+"114 274 LINE",
 "117 234 LINE",
 "416 234 LINE",
 "444 332 OFFCURVE",
@@ -7712,7 +7708,7 @@ unicode = 0441;
 },
 {
 glyphname = "te-cy";
-lastChange = "2020-01-18 18:52:38 +0000";
+lastChange = "2020-01-19 11:37:03 +0000";
 layers = (
 {
 components = (
@@ -7723,7 +7719,7 @@ transform = "{1, 0, 0, 1, 0, 0}";
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 827;
+width = 701;
 }
 );
 leftKerningGroup = n;
@@ -7887,18 +7883,18 @@ unicode = 0446;
 },
 {
 glyphname = "sha-cy";
-lastChange = "2020-01-18 18:52:38 +0000";
+lastChange = "2020-01-19 11:37:03 +0000";
 layers = (
 {
 components = (
 {
 name = m;
-transform = "{-1, -0, 0, -1, 827, 500}";
+transform = "{-1, -0, 0, -1, 701, 500}";
 }
 );
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
 name = Regular;
-width = 827;
+width = 701;
 }
 );
 leftKerningGroup = n;
@@ -11206,7 +11202,7 @@ nodes = (
 "209 605.418 OFFCURVE",
 "240.826 646 OFFCURVE",
 "308 646 CURVE",
-"367.001 647.209 OFFCURVE",
+"367 647.209 OFFCURVE",
 "402 613.302 OFFCURVE",
 "402 561 CURVE"
 );
