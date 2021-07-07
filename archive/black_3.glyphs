@@ -11801,7 +11801,7 @@ unicode = 02C7;
 },
 {
 glyphname = cedilla;
-lastChange = "2017-02-21 06:29:50 +0000";
+lastChange = "2021-07-05 13:07:59 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11811,12 +11811,12 @@ paths = (
 closed = 1;
 nodes = (
 "218.523 -91.6867 LINE",
-"223.712 -96.3014 OFFCURVE",
-"294 -85.1448 OFFCURVE",
+"224 -96 OFFCURVE",
+"294 -65 OFFCURVE",
 "294 -110 CURVE",
-"294 -94.3034 OFFCURVE",
-"281.534 -66.3754 OFFCURVE",
-"245.359 -18.3797 CURVE",
+"294 -158 OFFCURVE",
+"254 -154 OFFCURVE",
+"218 -139 CURVE",
 "197.491 -229.563 LINE",
 "299.19 -255.245 OFFCURVE",
 "397 -247.825 OFFCURVE",
@@ -12129,8 +12129,8 @@ width = 600;
 );
 },
 {
-glyphname = newGlyph;
-lastChange = "2017-02-21 06:29:50 +0000";
+glyphname = newGlyphaaa;
+lastChange = "2021-07-05 13:07:30 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
