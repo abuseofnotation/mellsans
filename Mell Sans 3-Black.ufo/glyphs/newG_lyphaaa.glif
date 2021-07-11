@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="newGlyphaaa" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="398.5" y="163" type="curve"/>
+			<point x="453.418" y="163"/>
+			<point x="504" y="234.239"/>
+			<point x="504" y="317.5" type="curve"/>
+			<point x="504" y="400.761"/>
+			<point x="453.418" y="472"/>
+			<point x="398.5" y="472" type="curve"/>
+			<point x="343.582" y="472"/>
+			<point x="293" y="400.761"/>
+			<point x="293" y="317.5" type="curve"/>
+			<point x="293" y="234.239"/>
+			<point x="343.582" y="163"/>
+		</contour>
+	</outline>
+</glyph>

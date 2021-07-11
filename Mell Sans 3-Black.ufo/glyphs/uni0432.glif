@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0432" format="2">
+	<advance width="521"/>
+	<unicode hex="0432"/>
+	<outline>
+		<component base="_ve_cyr" yOffset="-201"/>
+		<component base="_ve_cyr" yScale="-1" yOffset="702"/>
+		<component base="_i-dotless"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_ve_cyr</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_ve_cyr</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_i-dotless</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

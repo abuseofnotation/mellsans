@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="z" format="2">
+	<advance width="480"/>
+	<unicode hex="007A"/>
+	<outline>
+		<component base="_EF_horizontal" xOffset="94" yOffset="-292"/>
+		<component base="_EF_horizontal" xOffset="-8" yOffset="-292"/>
+		<component base="_EF_horizontal" xOffset="6" yOffset="86"/>
+		<component base="_EF_horizontal" xOffset="-67" yOffset="86"/>
+		<component base="_z" xOffset="-16"/>
+		<component base="_z" xScale="-1" yScale="-1" xOffset="487" yOffset="499"/>
+		<component base="ball" xOffset="-272" yOffset="-431"/>
+		<component base="ball" xOffset="61" yOffset="-16"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_z</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_z</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>ball</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>7</integer>
+					<key>name</key>
+					<string>ball</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

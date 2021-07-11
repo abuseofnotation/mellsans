@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="B" format="2">
+	<advance width="600"/>
+	<unicode hex="0042"/>
+	<outline>
+		<component base="_I_small" xOffset="40" yOffset="13"/>
+		<component base="_I_small" xOffset="40" yOffset="158"/>
+		<component base="_I_small" xOffset="40" yOffset="321"/>
+		<component base="_I_small" xOffset="40" yOffset="516"/>
+		<component base="_curve_B" yScale="-1" xOffset="98" yOffset="711"/>
+		<component base="_curve_B" xOffset="58" yOffset="-13"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_I_small</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_I_small</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_I_small</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_I_small</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_curve_B</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_curve_B</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_m_cyr" format="2">
+	<advance width="682"/>
+	<outline>
+		<contour>
+			<point x="194.631" y="520" type="line"/>
+			<point x="159.751" y="520" type="line"/>
+			<point x="10" y="28.4033" type="line"/>
+			<point x="10" y="-19" type="line"/>
+			<point x="123.882" y="-19" type="line"/>
+			<point x="199.882" y="282" type="line"/>
+			<point x="225.883" y="282" type="line"/>
+		</contour>
+	</outline>
+</glyph>

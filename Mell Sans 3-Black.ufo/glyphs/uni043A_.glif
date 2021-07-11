@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni043A" format="2">
+	<advance width="499"/>
+	<unicode hex="043A"/>
+	<outline>
+		<component base="_I" xOffset="30"/>
+		<component base="_k_cyr" xOffset="4"/>
+		<component base="_k_cyr" yScale="-1" xOffset="4" yOffset="499"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_k_cyr</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_k_cyr</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

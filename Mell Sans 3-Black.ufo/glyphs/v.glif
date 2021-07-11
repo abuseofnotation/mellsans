@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="v" format="2">
+	<advance width="522"/>
+	<unicode hex="0076"/>
+	<outline>
+		<component base="_y" xOffset="-60" yOffset="-20"/>
+		<component base="_y" xScale="-1" xOffset="584" yOffset="-20"/>
+		<component base="ball" xOffset="-79" yOffset="-448"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_y</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_y</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>ball</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

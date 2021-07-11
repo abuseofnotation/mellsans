@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_d_curl" format="2">
+	<advance width="494"/>
+	<outline>
+		<contour>
+			<point x="261" y="398.913" type="curve"/>
+			<point x="261" y="530.675" type="line"/>
+			<point x="163.678" y="536.899"/>
+			<point x="128.798" y="452.794"/>
+			<point x="84.7582" y="363.066" type="curve"/>
+			<point x="126.866" y="275.947" type="line"/>
+			<point x="185.414" y="392.928"/>
+			<point x="191.529" y="399.986"/>
+		</contour>
+	</outline>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0444" format="2">
+	<advance width="648"/>
+	<unicode hex="0444"/>
+	<outline>
+		<component base="_o_curve" xScale="-1" yScale="-1" xOffset="622" yOffset="505"/>
+		<component base="_o_curve" yScale="-1" xOffset="26" yOffset="505"/>
+		<component base="_o_curve" xScale="-1" xOffset="622"/>
+		<component base="_o_curve" xOffset="26"/>
+		<component base="_I" xOffset="234" yOffset="-3"/>
+		<component base="_I" xOffset="234" yOffset="-196"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_o_curve</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_o_curve</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_o_curve</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_o_curve</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

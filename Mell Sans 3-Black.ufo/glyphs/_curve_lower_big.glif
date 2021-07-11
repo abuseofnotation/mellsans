@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_curve_lower_big" format="2">
+	<advance width="526"/>
+	<outline>
+		<contour>
+			<point x="-320" y="-22" type="curve"/>
+			<point x="-322" y="108" type="line"/>
+			<point x="-405" y="104"/>
+			<point x="-439" y="160"/>
+			<point x="-439" y="241" type="curve"/>
+			<point x="-439" y="261" type="line"/>
+			<point x="-439" y="369"/>
+			<point x="-553" y="345"/>
+			<point x="-553" y="261" type="curve"/>
+			<point x="-553" y="222" type="line"/>
+			<point x="-553" y="70"/>
+			<point x="-453" y="-27"/>
+		</contour>
+		<component base="_c" yScale="-1" xOffset="-609" yOffset="663"/>
+	</outline>
+</glyph>

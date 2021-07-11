@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emptyset" format="2">
+	<advance width="672"/>
+	<unicode hex="2205"/>
+	<anchor x="499" y="102" name="tailq"/>
+	<outline>
+		<component base="_O" xScale="-1" yScale="-1" xOffset="627" yOffset="738"/>
+		<component base="_O" yScale="-1" xOffset="41" yOffset="738"/>
+		<component base="_O" xOffset="41" yOffset="10"/>
+		<component base="_O" xScale="-1" xOffset="627" yOffset="10"/>
+		<component base="_multiply" xOffset="-74" yOffset="157"/>
+		<component base="_multiply" xOffset="198" yOffset="-135"/>
+		<component base="_multiply" xOffset="91" yOffset="-20"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_O</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_O</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_O</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_O</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_multiply</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_multiply</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>_multiply</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

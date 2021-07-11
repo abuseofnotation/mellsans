@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_D_cyr" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="484.713" y="100.927" type="line"/>
+			<point x="492.178" y="-20" type="line"/>
+			<point x="550" y="-20" type="line"/>
+			<point x="550" y="-154" type="line"/>
+			<point x="662.093" y="-154" type="line"/>
+			<point x="660.907" y="102.064" type="line"/>
+		</contour>
+	</outline>
+</glyph>

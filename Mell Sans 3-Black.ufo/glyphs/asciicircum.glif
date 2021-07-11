@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="asciicircum" format="2">
+	<advance width="461"/>
+	<unicode hex="005E"/>
+	<outline>
+		<component base="_circum_part" xOffset="-47" yOffset="357"/>
+		<component base="_circum_part" xScale="-1" xOffset="508" yOffset="357"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_circum_part</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_circum_part</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

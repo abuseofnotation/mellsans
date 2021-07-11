@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_caron_alt" format="2">
+	<advance width="600"/>
+	<outline>
+		<component base="comma" xScale="0.694" yScale="0.694" xOffset="149" yOffset="467"/>
+	</outline>
+</glyph>

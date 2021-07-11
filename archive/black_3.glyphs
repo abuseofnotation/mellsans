@@ -5955,7 +5955,7 @@ unicode = 0076;
 },
 {
 glyphname = w;
-lastChange = "2021-06-30 14:14:34 +0000";
+lastChange = "2021-07-08 13:29:33 +0000";
 layers = (
 {
 components = (
@@ -5981,7 +5981,7 @@ transform = "{1, 0, 0, 1, -110, -448}";
 },
 {
 name = ball;
-transform = "{1, 0, 0, 1, 112, -446}";
+transform = "{1, 0, 0, 1, 112, -452}";
 },
 {
 name = ball;

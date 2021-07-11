@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_N" format="2">
+	<advance width="618"/>
+	<outline>
+		<contour>
+			<point x="469" y="79" type="line"/>
+			<point x="485" y="221" type="line"/>
+			<point x="139" y="693" type="line"/>
+			<point x="61" y="668" type="line"/>
+			<point x="60" y="474" type="line"/>
+			<point x="152" y="472" type="line"/>
+		</contour>
+	</outline>
+</glyph>

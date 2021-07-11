@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Z" format="2">
+	<advance width="616"/>
+	<unicode hex="005A"/>
+	<outline>
+		<component base="_EF_horizontal" xOffset="143" yOffset="287"/>
+		<component base="_EF_horizontal" xOffset="-67" yOffset="287"/>
+		<component base="_EF_horizontal" xOffset="-1" yOffset="-292"/>
+		<component base="_EF_horizontal" xOffset="239" yOffset="-292"/>
+		<component base="_EF_horizontal" xOffset="109" yOffset="-292"/>
+		<component base="_Z" xOffset="-53" yOffset="-20"/>
+		<component base="_Z" xScale="-1" yScale="-1" xOffset="669" yOffset="720"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_Z</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>6</integer>
+					<key>name</key>
+					<string>_Z</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

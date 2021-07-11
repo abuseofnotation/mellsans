@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0427" format="2">
+	<advance width="558"/>
+	<unicode hex="0427"/>
+	<outline>
+		<component base="_I" xOffset="355"/>
+		<component base="_curve_generic" xScale="-1" yScale="-1" xOffset="521" yOffset="1023"/>
+		<component base="_I_small" xOffset="30" yOffset="531"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_curve_generic</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_I_small</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

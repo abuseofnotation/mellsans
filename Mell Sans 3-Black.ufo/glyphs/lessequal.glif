@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="lessequal" format="2">
+	<advance width="549"/>
+	<unicode hex="2264"/>
+	<outline>
+		<component base="_less_equal" xScale="-1" xOffset="560" yOffset="-97"/>
+		<component base="_less_equal" xScale="-1" yScale="-1" xOffset="560" yOffset="688"/>
+		<component base="_EF_horizontal" xOffset="143" yOffset="-291"/>
+		<component base="_EF_horizontal" xOffset="-58" yOffset="-291"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_less_equal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_less_equal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni041A" format="2">
+	<advance width="562"/>
+	<unicode hex="041A"/>
+	<outline>
+		<component base="_I" xOffset="30"/>
+		<component base="_x" xScale="-1" xOffset="728" yOffset="304"/>
+		<component base="_x" yScale="-1" xOffset="-100" yOffset="703"/>
+		<component base="_x" xScale="-1" yScale="-1" xOffset="728" yOffset="403"/>
+		<component base="_x" xOffset="-100" yOffset="4"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_x</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_x</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_x</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_x</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

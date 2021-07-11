@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0428" format="2">
+	<advance width="766"/>
+	<unicode hex="0428"/>
+	<outline>
+		<component base="_I" yScale="-1" xOffset="30" yOffset="702"/>
+		<component base="_I" yScale="-1" xOffset="563" yOffset="702"/>
+		<component base="_EF_horizontal" yScale="-1" xOffset="304" yOffset="394"/>
+		<component base="_EF_horizontal" yScale="-1" xOffset="113" yOffset="394"/>
+		<component base="_I" yScale="-1" xOffset="301" yOffset="702"/>
+		<component base="_EF_horizontal" yScale="-1" xOffset="-17" yOffset="394"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>2</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>3</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>4</integer>
+					<key>name</key>
+					<string>_I</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>5</integer>
+					<key>name</key>
+					<string>_EF_horizontal</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

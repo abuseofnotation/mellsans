@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_bracket" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="401.726" y="-210.655" type="curve"/>
+			<point x="496.569" y="-141.555" type="line"/>
+			<point x="360.431" y="-14.5667"/>
+			<point x="296" y="120.72"/>
+			<point x="296" y="270" type="curve"/>
+			<point x="296" y="419.201"/>
+			<point x="359.285" y="552.265"/>
+			<point x="496.507" y="681.688" type="curve"/>
+			<point x="402.676" y="749.682" type="line"/>
+			<point x="235.427" y="593.468"/>
+			<point x="170" y="426.624"/>
+			<point x="170" y="264" type="curve"/>
+			<point x="170" y="88.7403"/>
+			<point x="250.801" y="-73.559"/>
+		</contour>
+	</outline>
+</glyph>

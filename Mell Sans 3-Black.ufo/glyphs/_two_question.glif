@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_two_question" format="2">
+	<advance width="565"/>
+	<outline>
+		<contour>
+			<point x="69" y="282"/>
+			<point x="63" y="73" type="curve"/>
+			<point x="106" y="20" type="line"/>
+			<point x="163" y="20" type="line"/>
+			<point x="163" y="212"/>
+			<point x="484" y="270"/>
+			<point x="484" y="498" type="curve"/>
+			<point x="484" y="635"/>
+			<point x="406" y="736"/>
+			<point x="260" y="736" type="curve"/>
+			<point x="212" y="736"/>
+			<point x="132" y="736"/>
+			<point x="73" y="692" type="curve"/>
+			<point x="98" y="568" type="line"/>
+			<point x="137" y="588"/>
+			<point x="198" y="602"/>
+			<point x="259" y="602" type="curve"/>
+			<point x="342" y="602"/>
+			<point x="362" y="547"/>
+			<point x="362" y="500" type="curve"/>
+			<point x="362" y="312"/>
+		</contour>
+	</outline>
+</glyph>

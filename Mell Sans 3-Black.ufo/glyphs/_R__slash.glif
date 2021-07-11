@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_R_slash" format="2">
+	<advance width="533"/>
+	<outline>
+		<contour>
+			<point x="305.699" y="395" type="line"/>
+			<point x="183.664" y="395" type="line"/>
+			<point x="376.323" y="-18" type="line"/>
+			<point x="427" y="-19" type="line"/>
+			<point x="470" y="42" type="line"/>
+		</contour>
+		<component base="ball" xOffset="91" yOffset="-449"/>
+	</outline>
+</glyph>

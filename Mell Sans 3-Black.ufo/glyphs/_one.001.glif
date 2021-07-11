@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_one.001" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="38" y="677.54" type="line"/>
+			<point x="38" y="556.866" type="line"/>
+			<point x="260" y="604.124" type="line"/>
+			<point x="260" y="720" type="line"/>
+			<point x="209.965" y="720" type="line"/>
+		</contour>
+		<component base="_I_small" xOffset="117" yOffset="3"/>
+		<component base="_I_small" xOffset="117" yOffset="168"/>
+		<component base="_I_small" xOffset="117" yOffset="331"/>
+		<component base="_I_small" xOffset="117" yOffset="477"/>
+		<component base="_dash-small" xOffset="-1" yOffset="-219"/>
+		<component base="_dash-small" xOffset="-84" yOffset="-219"/>
+	</outline>
+</glyph>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="caron" format="2">
+	<advance width="600"/>
+	<unicode hex="02C7"/>
+	<outline>
+		<component base="_circum_part" yScale="-1" xOffset="17" yOffset="852"/>
+		<component base="_circum_part" xScale="-1" yScale="-1" xOffset="572" yOffset="852"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+			<array>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>0</integer>
+					<key>name</key>
+					<string>_circum_part</string>
+				</dict>
+				<dict>
+					<key>alignment</key>
+					<integer>-1</integer>
+					<key>index</key>
+					<integer>1</integer>
+					<key>name</key>
+					<string>_circum_part</string>
+				</dict>
+			</array>
+		</dict>
+	</lib>
+</glyph>

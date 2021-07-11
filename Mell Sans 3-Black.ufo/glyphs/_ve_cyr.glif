@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_ve_cyr" format="2">
+	<advance width="556"/>
+	<outline>
+		<contour>
+			<point x="113.749" y="504" type="line"/>
+			<point x="99.2428" y="439.381" type="line"/>
+			<point x="109" y="415" type="line"/>
+			<point x="120" y="415"/>
+			<point x="244" y="415"/>
+			<point x="255" y="415" type="curve"/>
+			<point x="419.923" y="417.062"/>
+			<point x="480" y="458"/>
+			<point x="480" y="559" type="curve"/>
+			<point x="480" y="661"/>
+			<point x="399" y="703"/>
+			<point x="261" y="702" type="curve"/>
+			<point x="98" y="701" type="line"/>
+			<point x="120" y="580" type="line"/>
+			<point x="282" y="580" type="line"/>
+			<point x="338" y="580"/>
+			<point x="356" y="575"/>
+			<point x="356" y="548" type="curve"/>
+			<point x="356" y="517"/>
+			<point x="339" y="504"/>
+			<point x="279" y="504" type="curve"/>
+		</contour>
+	</outline>
+</glyph>

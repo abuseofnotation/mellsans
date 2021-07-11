@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="_k_cyr" format="2">
+	<advance width="600"/>
+	<outline>
+		<contour>
+			<point x="132.107" y="313.895" type="line"/>
+			<point x="105.016" y="207.125" type="line"/>
+			<point x="251.235" y="205.983" type="line"/>
+			<point x="279.16" y="246.194" type="line"/>
+			<point x="496.835" y="518" type="line"/>
+			<point x="345.015" y="518" type="line"/>
+			<point x="191.988" y="314.964" type="line"/>
+		</contour>
+	</outline>
+</glyph>
