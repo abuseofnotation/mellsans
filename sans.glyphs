@@ -2,8 +2,9 @@
 .appVersion = "3087";
 .formatVersion = 3;
 DisplayStrings = (
-JUMP,
-"/eight.numr"
+"M/_slash VWvwxy",
+"/eight.numr",
+"/_dash A"
 );
 axes = (
 {
@@ -12,7 +13,7 @@ tag = wght;
 }
 );
 date = "2016-11-08 10:02:54 +0000";
-familyName = "Mell Sans 0.5";
+familyName = "Mell Sans 0.6";
 featurePrefixes = (
 {
 automatic = 1;
@@ -234,7 +235,7 @@ unicode = 65;
 glyphname = Aacute;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -250,7 +251,7 @@ pos = (49,164);
 ref = acute;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -275,7 +276,7 @@ unicode = 193;
 glyphname = Abreve;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -291,7 +292,7 @@ pos = (65,181);
 ref = breve;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -316,7 +317,7 @@ unicode = 258;
 glyphname = Acircumflex;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-12 20:47:32 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -332,7 +333,7 @@ pos = (50,107);
 ref = circumflex;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -357,7 +358,7 @@ unicode = 194;
 glyphname = Adieresis;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-12 20:47:27 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -373,7 +374,7 @@ pos = (42,151);
 ref = dieresis;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -398,7 +399,7 @@ unicode = 196;
 glyphname = Agrave;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -414,7 +415,7 @@ pos = (-12,163);
 ref = grave;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -439,7 +440,7 @@ unicode = 192;
 glyphname = Amacron;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -455,7 +456,7 @@ pos = (67,116);
 ref = macron;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -480,7 +481,7 @@ unicode = 256;
 glyphname = Aogonek;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:11 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -508,7 +509,7 @@ ref = A;
 },
 {
 alignment = -1;
-pos = (276,-20);
+pos = (246,-20);
 ref = ogonek;
 }
 );
@@ -521,7 +522,7 @@ unicode = 260;
 glyphname = Aring;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -537,7 +538,7 @@ pos = (38,215);
 ref = ring;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -562,7 +563,7 @@ unicode = 197;
 glyphname = Atilde;
 kernLeft = A;
 kernRight = A;
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-08-14 12:17:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -578,7 +579,7 @@ pos = (58,151);
 ref = tilde;
 }
 );
-width = 700;
+width = 640;
 },
 {
 layerId = m002;
@@ -5143,7 +5144,7 @@ unicode = 86;
 glyphname = W;
 kernLeft = T;
 kernRight = T;
-lastChange = "2023-08-14 06:45:05 +0000";
+lastChange = "2023-08-14 12:01:59 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -5152,35 +5153,35 @@ shapes = (
 {
 closed = 1;
 nodes = (
-(555,-11,cs),
-(581,-11,o),
-(597,16,o),
-(613,77,cs),
+(545,-11,cs),
+(571,-11,o),
+(586,16,o),
+(603,77,cs),
 (766,661,l),
-(613,661,l),
-(551,278,l),
+(603,661,l),
+(541,318,l),
 (451,590,ls),
-(435,641,o),
+(434,642,o),
 (423,672,o),
 (395,672,cs),
 (395,672,l),
 (367,672,o),
-(356,643,o),
+(356,644,o),
 (341,594,cs),
-(247,281,l),
-(184,661,l),
+(257,321,l),
+(194,661,l),
 (30,661,l),
-(186,77,ls),
-(202,18,o),
-(214,-11,o),
-(241,-11,cs),
-(266,-11,o),
-(280,18,o),
-(297,77,cs),
-(394,413,l),
-(495,71,ls),
-(511,17,o),
-(532,-11,o)
+(196,77,ls),
+(213,18,o),
+(224,-11,o),
+(251,-11,cs),
+(276,-11,o),
+(290,18,o),
+(307,77,cs),
+(394,373,l),
+(485,71,ls),
+(501,17,o),
+(522,-11,o)
 );
 }
 );
@@ -11025,7 +11026,7 @@ unicode = 118;
 glyphname = w;
 kernLeft = v;
 kernRight = v;
-lastChange = "2023-08-14 06:45:54 +0000";
+lastChange = "2023-08-14 12:01:21 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -11035,63 +11036,29 @@ shapes = (
 closed = 1;
 nodes = (
 (239,-10,o),
-(264,26,o),
+(262,26,o),
 (282,79,cs),
-(357,298,l),
+(357,278,l),
 (421,81,ls),
-(437,26,o),
+(439,26,o),
 (459,-10,o),
 (486,-10,cs),
 (510,-10,o),
 (527,30,o),
 (545,81,cs),
 (693,510,l),
-(553,510,l),
-(483,204,l),
+(543,510,l),
+(483,244,l),
 (410,446,ls),
-(396,491,o),
+(394,491,o),
 (379,517,o),
 (358,517,c),
 (357,517,ls),
 (329,517,o),
-(313,489,o),
+(316,489,o),
 (299,446,cs),
-(222,205,l),
-(160,510,l),
-(20,510,l),
-(150,81,ls),
-(166,30,o),
-(194,-10,o),
-(217,-10,cs)
-);
-},
-{
-closed = 1;
-nodes = (
-(239,-10,o),
-(264,26,o),
-(282,79,cs),
-(357,298,l),
-(421,81,ls),
-(437,26,o),
-(459,-10,o),
-(486,-10,cs),
-(510,-10,o),
-(527,30,o),
-(545,81,cs),
-(693,510,l),
-(553,510,l),
-(483,204,l),
-(410,446,ls),
-(396,491,o),
-(379,517,o),
-(358,517,c),
-(357,517,ls),
-(329,517,o),
-(313,489,o),
-(299,446,cs),
-(222,205,l),
-(160,510,l),
+(222,245,l),
+(170,510,l),
 (20,510,l),
 (150,81,ls),
 (166,30,o),
@@ -26448,7 +26415,7 @@ width = 483;
 {
 export = 0;
 glyphname = _y;
-lastChange = "2023-08-14 06:52:38 +0000";
+lastChange = "2023-08-14 12:01:26 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -26462,11 +26429,11 @@ nodes = (
 (383,64,cs),
 (564,520,l),
 (414,520,l),
-(326,171,ls),
-(317,137,o),
-(301,131,o),
-(291,107,cs),
-(283,88,o),
+(326,201,ls),
+(317,167,o),
+(301,161,o),
+(291,137,cs),
+(283,118,o),
 (299,-7,o),
 (323,-7,cs)
 );
