@@ -2,9 +2,7 @@
 .appVersion = "3087";
 .formatVersion = 3;
 DisplayStrings = (
-"Дебора",
-"THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
-"the quick brown fox jumps over the lazy dog"
+"°"
 );
 axes = (
 {
@@ -17831,7 +17829,7 @@ unicode = 161;
 },
 {
 glyphname = question;
-lastChange = "2023-08-17 20:29:55 +0000";
+lastChange = "2023-08-23 17:27:01 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -17859,8 +17857,8 @@ nodes = (
 (198,718,o),
 (92,709,o),
 (40,673,c),
-(65,624,o),
-(75,569,o),
+(42,624,o),
+(52,569,o),
 (78,513,c),
 (119,544,o),
 (187,564,o),
@@ -19764,7 +19762,7 @@ unicode = 8482;
 },
 {
 glyphname = degree;
-lastChange = "2023-08-17 20:27:47 +0000";
+lastChange = "2023-09-05 07:32:04 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -19814,6 +19812,7 @@ shapes = (
 {
 closed = 1;
 nodes = (
+(166,480,o),
 (199,513,o),
 (199,555,c),
 (199,596,o),
@@ -19824,8 +19823,7 @@ nodes = (
 (60,555,c),
 (60,513,o),
 (93,480,o),
-(130,480,c),
-(166,480,o)
+(130,480,c)
 );
 },
 {
@@ -20227,7 +20225,7 @@ unicode = 164;
 },
 {
 glyphname = dollar;
-lastChange = "2023-04-05 05:53:40 +0000";
+lastChange = "2023-08-30 06:34:01 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -20260,12 +20258,12 @@ ref = S;
 },
 {
 alignment = -1;
-pos = (136,535);
+pos = (136,635);
 ref = _I_small;
 },
 {
 alignment = -1;
-pos = (138,-103);
+pos = (138,-173);
 ref = _I_small;
 }
 );
