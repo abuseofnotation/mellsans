@@ -1,5 +1,6 @@
 {
 .appVersion = "3087";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 lin
@@ -4133,6 +4134,7 @@ width = 575;
 }
 );
 unicode = 342;
+changeCount = 1;
 },
 {
 glyphname = S;
@@ -12553,7 +12555,7 @@ unicode = 1053;
 },
 {
 glyphname = "O-cy";
-lastChange = "2022-01-04 20:26:43 +0000";
+lastChange = "2023-09-15 05:37:22 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -12564,7 +12566,7 @@ alignment = -1;
 ref = O;
 }
 );
-width = 676;
+width = 616;
 },
 {
 layerId = m002;
@@ -12579,6 +12581,7 @@ width = 676;
 }
 );
 unicode = 1054;
+changeCount = 1;
 },
 {
 glyphname = "Pe-cy";
@@ -13488,6 +13491,7 @@ width = 575;
 }
 );
 unicode = 1071;
+changeCount = 1;
 },
 {
 glyphname = "a-cy";
