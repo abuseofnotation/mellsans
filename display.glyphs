@@ -2,7 +2,7 @@
 .appVersion = "3087";
 .formatVersion = 3;
 DisplayStrings = (
-"AÁĂÂÄÀĀĄÅÃ"
+"Ã"
 );
 axes = (
 {
@@ -25032,7 +25032,7 @@ width = 600;
 {
 export = 0;
 glyphname = _i_dotless_full;
-lastChange = "2023-08-17 20:31:50 +0000";
+lastChange = "2023-11-26 17:32:46 +0000";
 layers = (
 {
 hints = (
@@ -25074,6 +25074,11 @@ alignment = -1;
 angle = 180;
 pos = (263,403);
 ref = _I_small;
+},
+{
+alignment = -1;
+pos = (2,-1);
+ref = i_chengel;
 }
 );
 width = 324;
