@@ -11,7 +11,7 @@ tag = wght;
 }
 );
 date = "2016-11-08 10:02:54 +0000";
-familyName = "Mell Mono 0.6";
+familyName = "Mell Mono";
 featurePrefixes = (
 {
 automatic = 1;
