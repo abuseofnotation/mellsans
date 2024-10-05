@@ -1,5 +1,6 @@
 {
 .appVersion = "3087";
+.storedFileType = com.schriftgestaltung.glyphs;
 .formatVersion = 3;
 DisplayStrings = (
 "£"
@@ -105046,7 +105047,20 @@ m006 = 0.5;
 m007 = 0.5;
 m009 = 1;
 };
-name = Thin;
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Display";
+}
+);
+}
+);
 weightClass = 100;
 },
 {
@@ -105068,7 +105082,18 @@ m009 = 0.49667;
 };
 isItalic = 1;
 linkStyle = Regular;
-name = Regular;
+name = "Regular Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Display";
+}
+);
+}
+);
 },
 {
 axesValues = (
@@ -105089,7 +105114,18 @@ m009 = 0.11378;
 };
 isItalic = 1;
 linkStyle = Semibold;
-name = Semibold;
+name = "Semibold Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Display";
+}
+);
+}
+);
 weightClass = 600;
 },
 {
@@ -105111,7 +105147,18 @@ m009 = 0.14545;
 };
 isItalic = 1;
 linkStyle = Bold;
-name = Bold;
+name = "Bold Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Display";
+}
+);
+}
+);
 weightClass = 700;
 },
 {
@@ -105133,8 +105180,110 @@ m009 = 0.09091;
 };
 isItalic = 1;
 linkStyle = Ultra;
-name = Ultra;
+name = "Ultra Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Display";
+}
+);
+}
+);
 weightClass = 800;
+},
+{
+axesValues = (
+100,
+0,
+100,
+50
+);
+instanceInterpolations = {
+m002 = -1;
+m005 = 0.00833;
+m006 = 0.99167;
+m008 = -0.00833;
+m009 = 1.00833;
+};
+isItalic = 1;
+linkStyle = Thin;
+name = "Thin Italic";
+properties = (
+{
+key = preferredFamilyNames;
+values = (
+{
+language = dflt;
+value = "Mell Mono";
+}
+);
+}
+);
+weightClass = 100;
+},
+{
+axesValues = (
+400,
+0,
+100,
+50
+);
+instanceInterpolations = {
+"7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D" = -0.52885;
+m002 = -0.47115;
+m005 = 0.45192;
+m006 = 0.54808;
+m008 = 0.45192;
+m009 = 0.54808;
+};
+isItalic = 1;
+linkStyle = Regular;
+name = Italic;
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mell Mono";
+}
+);
+}
+);
+},
+{
+axesValues = (
+700,
+0,
+100,
+50
+);
+instanceInterpolations = {
+"7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D" = -0.44231;
+m002 = -0.55769;
+m005 = 0.59615;
+m006 = 0.40385;
+m008 = 0.59615;
+m009 = 0.40385;
+};
+isItalic = 1;
+linkStyle = Bold;
+name = "Bold Italic";
+properties = (
+{
+key = familyNames;
+values = (
+{
+language = dflt;
+value = "Mell Mono";
+}
+);
+}
+);
+weightClass = 700;
 }
 );
 kerningLTR = {
