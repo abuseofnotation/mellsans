@@ -2,9 +2,7 @@
 .appVersion = "3087";
 .formatVersion = 3;
 DisplayStrings = (
-"THE QUICK BROWN FOX 
-JUMPS OVER THE LAZY DOG.
-"
+Jencel
 );
 axes = (
 {
@@ -11217,7 +11215,7 @@ unicode = 302;
 {
 glyphname = J;
 kernLeft = A;
-lastChange = "2024-11-15 15:48:39 +0000";
+lastChange = "2024-11-25 13:09:28 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -92233,7 +92231,7 @@ unicode = 125;
 },
 {
 glyphname = bracketleft;
-lastChange = "2024-11-15 15:36:52 +0000";
+lastChange = "2024-11-23 14:50:03 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -92277,7 +92275,7 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (-25,0);
+pos = (65,0);
 ref = _square_bracket;
 }
 );
@@ -92360,7 +92358,7 @@ unicode = 91;
 },
 {
 glyphname = bracketright;
-lastChange = "2024-11-15 15:36:52 +0000";
+lastChange = "2024-11-23 14:49:58 +0000";
 layers = (
 {
 layerId = "7EBE3D46-E53E-419E-A3EC-596DA2EA1E0D";
@@ -92407,7 +92405,7 @@ name = Regular;
 shapes = (
 {
 alignment = -1;
-pos = (360,0);
+pos = (438,0);
 ref = _square_bracket;
 scale = (-1,1);
 }
